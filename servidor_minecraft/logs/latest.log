@@ -1,0 +1,32 @@
+[01:38:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:38:54] [ServerMain/INFO]: No existing world data, creating new world
+[01:38:54] [ServerMain/INFO]: Loaded 1370 recipes
+[01:38:54] [ServerMain/INFO]: Loaded 1481 advancements
+[01:38:54] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[01:38:54] [Server thread/INFO]: Loading properties
+[01:38:54] [Server thread/INFO]: Default game type: SURVIVAL
+[01:38:54] [Server thread/INFO]: Generating keypair
+[01:38:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:38:55] [Server thread/INFO]: Using epoll channel type
+[01:38:55] [Server thread/INFO]: Preparing level "CTM"
+[01:39:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:39:02] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:39:02] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:39:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[01:39:03] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[01:39:04] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[01:39:04] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[01:39:05] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[01:39:05] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[01:39:06] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:39:06] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:39:06] [Server thread/INFO]: Time elapsed: 4676 ms
+[01:39:06] [Server thread/INFO]: Done (11.675s)! For help, type "help"
+[01:40:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:42:44] [User Authenticator #1/INFO]: UUID of player sokrose is 741e19df-6703-4ce7-97bc-6e1302533ca2
+[01:42:46] [Server thread/INFO]: sokrose[/127.154.100.82:49507] logged in with entity id 9 at (112.5, 63.0, 348.5)
+[01:42:46] [Server thread/INFO]: sokrose joined the game
+[01:43:48] [Server thread/INFO]: Made sokrose a server operator
+[01:45:36] [Server thread/INFO]: sokrose lost connection: Disconnected
+[01:45:36] [Server thread/INFO]: sokrose left the game
+[01:46:36] [Server thread/INFO]: Server empty for 60 seconds, pausing

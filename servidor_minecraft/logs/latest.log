@@ -1,32 +1,46 @@
-[01:38:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:38:54] [ServerMain/INFO]: No existing world data, creating new world
-[01:38:54] [ServerMain/INFO]: Loaded 1370 recipes
-[01:38:54] [ServerMain/INFO]: Loaded 1481 advancements
-[01:38:54] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[01:38:54] [Server thread/INFO]: Loading properties
-[01:38:54] [Server thread/INFO]: Default game type: SURVIVAL
-[01:38:54] [Server thread/INFO]: Generating keypair
-[01:38:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:38:55] [Server thread/INFO]: Using epoll channel type
-[01:38:55] [Server thread/INFO]: Preparing level "CTM"
-[01:39:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:39:02] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:39:02] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:39:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[01:39:03] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[01:39:04] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[01:39:04] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[01:39:05] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[01:39:05] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[01:39:06] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[01:39:06] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[01:39:06] [Server thread/INFO]: Time elapsed: 4676 ms
-[01:39:06] [Server thread/INFO]: Done (11.675s)! For help, type "help"
-[01:40:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:42:44] [User Authenticator #1/INFO]: UUID of player sokrose is 741e19df-6703-4ce7-97bc-6e1302533ca2
-[01:42:46] [Server thread/INFO]: sokrose[/127.154.100.82:49507] logged in with entity id 9 at (112.5, 63.0, 348.5)
-[01:42:46] [Server thread/INFO]: sokrose joined the game
-[01:43:48] [Server thread/INFO]: Made sokrose a server operator
-[01:45:36] [Server thread/INFO]: sokrose lost connection: Disconnected
-[01:45:36] [Server thread/INFO]: sokrose left the game
-[01:46:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:53:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:53:45] [ServerMain/INFO]: Found non-pack entry './world/datapacks/ctm', ignoring
+[01:53:48] [ServerMain/INFO]: Loaded 1370 recipes
+[01:53:48] [ServerMain/INFO]: Loaded 1758 advancements
+[01:53:48] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[01:53:48] [Server thread/INFO]: Loading properties
+[01:53:48] [Server thread/INFO]: Default game type: SURVIVAL
+[01:53:48] [Server thread/INFO]: Generating keypair
+[01:53:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:53:48] [Server thread/INFO]: Using epoll channel type
+[01:53:48] [Server thread/INFO]: Preparing level "world"
+[01:53:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:53:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:53:49] [Worker-Main-1/INFO]: Preparing spawn area: 36%
+[01:53:49] [Server thread/INFO]: Time elapsed: 692 ms
+[01:53:49] [Server thread/INFO]: Done (0.947s)! For help, type "help"
+[01:54:33] [User Authenticator #1/INFO]: UUID of player sokrose is 741e19df-6703-4ce7-97bc-6e1302533ca2
+[01:54:35] [Server thread/INFO]: sokrose[/127.154.100.82:35615] logged in with entity id 12 at (399.69999998807907, 67.0, 177.30000001192093)
+[01:54:35] [Server thread/INFO]: sokrose joined the game
+[01:55:51] [User Authenticator #2/INFO]: UUID of player blackdesfail is 26f81402-965a-41ec-87bc-2f4af846b379
+[01:55:52] [Server thread/INFO]: blackdesfail[/127.195.151.45:44563] logged in with entity id 106 at (398.4038735730663, 67.0, 177.60981656326922)
+[01:55:52] [Server thread/INFO]: blackdesfail joined the game
+[01:56:04] [Server thread/INFO]: [blackdesfail: Triggered [voteToStartGame]]
+[01:56:26] [Server thread/INFO]: [sokrose: Triggered [voteToStartGame]]
+[01:57:40] [Server thread/INFO]: blackdesfail has made the advancement [Stone Age]
+[01:57:59] [Server thread/INFO]: blackdesfail has made the advancement [Getting an Upgrade]
+[01:58:44] [Server thread/INFO]: sokrose has made the advancement [Stone Age]
+[01:59:26] [Server thread/INFO]: sokrose has made the advancement [Getting an Upgrade]
+[02:01:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=511, y=74, z=210} ji{x=510, y=72, z=211}
+[02:01:15] [Server thread/INFO]: sokrose has made the advancement [The Parrots and the Bats]
+[02:01:44] [Server thread/INFO]: blackdesfail has made the advancement [Acquire Hardware]
+[02:08:20] [Server thread/INFO]: sokrose has made the advancement [Sweet Dreams]
+[02:09:02] [Server thread/INFO]: sokrose suffocated in a wall
+[02:12:24] [Server thread/INFO]: sokrose has made the advancement [A Seedy Place]
+[02:12:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=657, y=92, z=575} ji{x=657, y=90, z=575}
+[02:13:36] [Server thread/INFO]: sokrose has made the advancement [Monster Hunter]
+[02:14:28] [Server thread/INFO]: blackdesfail has made the advancement [Monster Hunter]
+[02:19:35] [Server thread/INFO]: blackdesfail has made the advancement [Sweet Dreams]
+[02:21:47] [Server thread/INFO]: blackdesfail has made the advancement [Isn't It Iron Pick]
+[02:25:22] [Server thread/INFO]: blackdesfail has made the advancement [Diamonds!]
+[02:25:52] [Server thread/INFO]: blackdesfail has made the advancement [Not Today, Thank You]
+[02:26:49] [Server thread/INFO]: sokrose has made the advancement [Acquire Hardware]
+[02:28:02] [Server thread/INFO]: sokrose has made the advancement [Isn't It Iron Pick]
+[02:29:44] [Server thread/INFO]: sokrose has made the advancement [Not Today, Thank You]
+[02:30:47] [Server thread/INFO]: sokrose has made the advancement [Diamonds!]
+[02:32:36] [Server thread/INFO]: blackdesfail has made the advancement [Suit Up]

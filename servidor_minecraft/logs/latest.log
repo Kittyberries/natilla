@@ -44,3 +44,18 @@
 [02:29:44] [Server thread/INFO]: sokrose has made the advancement [Not Today, Thank You]
 [02:30:47] [Server thread/INFO]: sokrose has made the advancement [Diamonds!]
 [02:32:36] [Server thread/INFO]: blackdesfail has made the advancement [Suit Up]
+[02:36:14] [Server thread/INFO]: blackdesfail has made the advancement [Cover Me with Diamonds]
+[02:38:19] [User Authenticator #5/INFO]: UUID of player sokrose is 741e19df-6703-4ce7-97bc-6e1302533ca2
+[02:37:24] [User Authenticator #4/INFO]: UUID of player sokrose is 741e19df-6703-4ce7-97bc-6e1302533ca2
+[02:37:14] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[02:39:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 177816ms or 3556 ticks behind
+[02:39:12] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[02:36:57] [User Authenticator #3/INFO]: UUID of player sokrose is 741e19df-6703-4ce7-97bc-6e1302533ca2
+[02:39:12] [Server thread/INFO]: sokrose lost connection: Disconnected
+[02:39:12] [Server thread/INFO]: sokrose left the game
+[02:39:12] [Server thread/INFO]: blackdesfail lost connection: Disconnected
+[02:39:12] [Server thread/INFO]: blackdesfail left the game
+[02:39:12] [Server thread/INFO]: sokrose (/127.154.100.82:43549) lost connection: Disconnected
+[02:39:12] [Server thread/INFO]: sokrose (/127.154.100.82:38525) lost connection: Disconnected
+[02:39:12] [Server thread/INFO]: sokrose (/127.154.100.82:33223) lost connection: Disconnected
+[02:39:12] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/natilla/servidor_minecraft/crash-reports/crash-2025-06-15_02.39.12-server.txt

@@ -158,6 +158,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-06-26 03:40:20 +0000",
+      "minecraft:sunflower_plains": "2025-06-28 00:29:08 +0000",
       "minecraft:river": "2025-06-26 03:43:03 +0000",
       "minecraft:dripstone_caves": "2025-06-26 03:49:04 +0000",
       "minecraft:savanna": "2025-06-26 03:26:34 +0000",

@@ -6,3 +6,6 @@
 [00:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
 [00:25:50] [Server thread/INFO]: blackdesfail lost connection: Disconnected
 [00:25:50] [Server thread/INFO]: blackdesfail left the game
+[00:39:47] [Server thread/INFO]: sokrose lost connection: Disconnected
+[00:39:47] [Server thread/INFO]: sokrose left the game
+[00:40:47] [Server thread/INFO]: Server empty for 60 seconds, pausing

@@ -1,11 +1,71 @@
-[00:07:51] [Server thread/INFO]: sokrose has made the advancement [Cover Me with Diamonds]
-[00:08:08] [Server thread/INFO]: sokrose has made the advancement [Take Aim]
-[00:09:00] [Server thread/INFO]: sokrose has made the advancement [Ice Bucket Challenge]
-[00:10:05] [Server thread/INFO]: sokrose has made the advancement [Enchanter]
-[00:12:46] [Server thread/INFO]: sokrose has made the advancement [We Need to Go Deeper]
-[00:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
-[00:25:50] [Server thread/INFO]: blackdesfail lost connection: Disconnected
-[00:25:50] [Server thread/INFO]: blackdesfail left the game
-[00:39:47] [Server thread/INFO]: sokrose lost connection: Disconnected
-[00:39:47] [Server thread/INFO]: sokrose left the game
-[00:40:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:34:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:34:57] [ServerMain/INFO]: Loaded 1370 recipes
+[23:34:57] [ServerMain/INFO]: Loaded 1758 advancements
+[23:34:57] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[23:34:57] [Server thread/INFO]: Loading properties
+[23:34:57] [Server thread/INFO]: Default game type: SURVIVAL
+[23:34:57] [Server thread/INFO]: Generating keypair
+[23:34:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:34:57] [Server thread/INFO]: Using epoll channel type
+[23:34:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:34:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:34:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:34:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:34:57] [Server thread/INFO]: Preparing level "world"
+[23:34:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:34:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:34:58] [Server thread/INFO]: Time elapsed: 440 ms
+[23:34:58] [Server thread/INFO]: Done (0.661s)! For help, type "help"
+[23:35:44] [Server thread/INFO]: kioikmew[/127.67.147.37:38125] logged in with entity id 9 at (-12.5, 69.0, 132.5)
+[23:35:44] [Server thread/INFO]: kioikmew joined the game
+[23:36:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-11, y=68, z=136}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=136}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=135}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=135}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=134}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=134}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=134}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=133}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=133}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=133}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=132}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=131}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=130}
+[23:36:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-12, y=68, z=130}
+[23:36:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=128}
+[23:36:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=128}
+[23:36:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=128}
+[23:36:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=128}
+[23:36:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=126}
+[23:36:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=125}
+[23:36:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-14, y=68, z=125}
+[23:36:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=124}
+[23:36:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=123}
+[23:36:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=123}
+[23:36:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=122}
+[23:36:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=121}
+[23:36:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=121}
+[23:36:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=121}
+[23:36:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-13, y=68, z=120}
+[23:36:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-10, y=66, z=112}
+[23:36:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-10, y=66, z=113}
+[23:36:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-9, y=66, z=113}
+[23:36:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-9, y=66, z=112}
+[23:36:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-8, y=66, z=112}
+[23:36:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-7, y=66, z=111} ji{x=-7, y=66, z=112}
+[23:36:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-7, y=66, z=111} ji{x=-6, y=66, z=112}
+[23:36:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-7, y=66, z=111} ji{x=-7, y=66, z=112}
+[23:36:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-7, y=66, z=111} ji{x=-6, y=66, z=112}
+[23:36:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-7, y=66, z=111} ji{x=-5, y=66, z=112}
+[23:36:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-7, y=66, z=111} ji{x=-4, y=66, z=112}
+[23:36:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-7, y=66, z=111} ji{x=-2, y=67, z=112}
+[23:36:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-2, y=67, z=111} ji{x=-2, y=67, z=112}
+[23:36:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-2, y=67, z=111} ji{x=-2, y=66, z=113}
+[23:36:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-2, y=67, z=111} ji{x=-3, y=66, z=113}
+[23:36:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-2, y=67, z=111} ji{x=-2, y=66, z=113}
+[23:36:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-2, y=67, z=111} ji{x=-1, y=67, z=113}
+[23:36:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-2, y=67, z=111} ji{x=0, y=67, z=114}
+[23:38:15] [Server thread/INFO]: kioikmew was slain by Zombie
+[23:43:15] [Server thread/INFO]: kioikmew lost connection: Disconnected
+[23:43:15] [Server thread/INFO]: kioikmew left the game
+[23:44:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
